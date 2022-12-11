@@ -1,0 +1,44 @@
+
+https://store.steampowered.com/charts/mostplayed/
+탑 100읽어서 
+
+현재 플레이어인지
+DialogDropDown_CurrentDisplay //test
+<div class="DialogDropDown _DialogInputContainer  Panel Focusable" tabindex="0"><div class="DialogDropDown_CurrentDisplay">By Current Players</div>
+
+href태그 app id splits /
+<a class="weeklytopsellers_TopChartItem_2C5PJ" href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive?snr=1_7001_7005__7003"><img class="weeklytopsellers_CapsuleArt_2dODJ" src="https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_231x87.jpg?t=1668125812"><div class="weeklytopsellers_GameName_1n_4-">Counter-Strike: Global Offensive</div></a>
+=============
+세일 유무 판단 
+<div class="salepreviewwidgets_StoreSaleDiscountBox_2fpFv">-67%</div>
+<div class="salepreviewwidgets_StoreOriginalPrice_1EKGZ">₩ 66,000</div>
+이 태그가 있으면 세일 중
+
+가격 (세일이면 세일된 가격)
+<div class="salepreviewwidgets_StoreSalePriceBox_Wh0L8">Free To Play</div>
+===============
+게임이름
+<div class="weeklytopsellers_GameName_1n_4-">Dota 2</div>
+
+현재 동접수
+<td class="weeklytopsellers_ConcurrentCell_3L0CD">335,144</td>
+
+최고 접속수
+<td class="weeklytopsellers_PeakInGameCell_yJB7D">720,706</td>
+
+시작시 appno_last에 그전파일을 읽어서 저장
+
+새로 크롤링한거랑 
+크기 prev>= 현재
+현재-prev
+appno txt로 저장
+
+봇id: ##삭제된 데이터##
+
+POST https://bot-api.kakao.com/v2/bots/{botId}/talk
+운영채널로 Event API 발송 시 : botid
+개발채널로 Event API 발송 시 : botid!
+
+Request Header
+Authorization: KakaoAK {Rest Api Key}
+Content-Type: application/json

@@ -1,0 +1,46 @@
+이름
+div 파싱 후 title로 추출
+===============
+평가,비율,인원 수
+
+평가태그가 없는 경우(똥작,신작) class가 
+col search_reviewscore responsive_secondrow의 하위태그인 search_review_summary positive가 없음
+
+평가태그가 있는 경우
+col search_reviewscore responsive_secondrow의 하위태그인 search_review_summary positive가 있음
+
+col search_reviewscore responsive_secondrow로 읽고
+하위태그 검색 조건달기
+
+=========================
+모든태그의 최상위 부모는 class="col search_price_discount_combined responsive_secondrow"
+하위는 3가지 경우로 나뉨
+
+가격이 무료인경우 
+class="col search_discount responsive_secondrow"가 null("\n")이고
+class="col search_price  responsive_secondrow"에 Free to Play값
+
+가격이 할인인 경우
+class="col search_discount responsive_secondrow"에 <span>태그로 할인 비율이 들어가고 
+<div class="col search_price discounted responsive_secondrow">에 <span>태그로 이 안에  <strike>태그로 원래 가격  </span>닫고 <br>다음 할인된 가격
+
+가격이 노말인 경우
+class="col search_discount responsive_secondrow"가 null("\n")이고
+class="col search_price  responsive_secondrow"에 원래 가격
+
+공통태그인 "col search_discount responsive_secondrow"로 찾은 후
+<span>태그 존재 유무에 따라 할인/노말 무료로 분기
+무료 노말인 경우 span태그가 존재하지 않는다.
+=================================================================================
+=================================================================================
+데이터 파싱
+
+카테고리 설정과 코렙ip에 따라서 국가별로 화폐단위가 달라진다.
+따라서 한국과 영어 ,게임 카테고리를 선택해서 고정시킨다.
+split 메소드등을 사용하여 원하는 데이터를 추출한다.
+released_date의 경우 날짜가 이상한 것들은 미출시 게임이거나 베타인 경우이므로
+데이터를 그대로 가져온 후 람다식을 이용하여 변환이 가능한 것만 변환한다.
+실제 스팀사이트에서 날짜로 정렬시 비정형데이터들은 제외하고 정렬한다.
+ex> Q4 2022의 경우 2022년에 들어가지 않고 출시하지 않은 게임이다.
+
+

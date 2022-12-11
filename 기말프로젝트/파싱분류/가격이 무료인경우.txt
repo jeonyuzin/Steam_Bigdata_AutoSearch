@@ -1,0 +1,27 @@
+<a href="https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_230_150_1" data-ds-appid="578080" data-ds-itemkey="App_578080" data-ds-tagids="[1662,1774,3859,176981,1663,1775,3814]" data-ds-descids="[2,5]" data-ds-crtrids="[33973721]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:578080,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag  app_impression_tracked" data-search-page="1" data-gpnav="item" data-ds-steam-deck-compat-handled="true">
+            <div class="col search_capsule"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1667814365" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1667814365 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_231x87.jpg?t=1667814365 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">PUBG: BATTLEGROUNDS</span>
+                    <div>
+                                                <span class="platform_img win"></span>                    </div>
+                </div>
+                <div class="col search_released responsive_secondrow">21 Dec, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed<br>56% of the 2,097,869 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        Free to Play                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>

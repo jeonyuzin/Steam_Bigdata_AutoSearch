@@ -1,0 +1,98 @@
+100
+스크롤 완
+['275850']
+     appno          name real_price  sale discount_price    curr    peck
+99  275850  No Man's Sky   ₩ 30,000  -50%       ₩ 60,000  11,717  11,869
+{'message': 'new top100', 'steam_no': "['275850']", 'name': '["No Man\'s Sky"]', 'real': "['₩ 30,000']", 'curr': "['11,717']", 'peck': "['11,869']"}
+<Response [200]>
+101
+Traceback (most recent call last):
+  File "/home/junyouzin/kakao/top100.py", line 57, in <module>
+    broswer = webdriver.Chrome('chromedriver', options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 81, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 103, in __init__
+    self.service.start()
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/common/service.py", line 112, in start
+    raise WebDriverException(f"Can not connect to the Service {self.path}")
+selenium.common.exceptions.WebDriverException: Message: Can not connect to the Service chromedriver
+
+115
+스크롤 완
+['552990', '766570', '1426210', '962130']
+     appno               name    real_price sale discount_price   curr    peck
+98  552990  World of Warships  Free To Play                      8,377  11,169
+{'message': 'new top100', 'steam_no': "['552990']", 'name': "['World of Warships']", 'real': "['Free To Play']", 'curr': "['8,377']", 'peck': "['11,169']"}
+<Response [200]>
+     appno               name    real_price sale discount_price   curr    peck
+97  766570  Russian Fishing 4  Free To Play                      8,438  10,077
+{'message': 'new top100', 'steam_no': "['766570']", 'name': "['Russian Fishing 4']", 'real': "['Free To Play']", 'curr': "['8,438']", 'peck': "['10,077']"}
+<Response [200]>
+      appno          name real_price sale discount_price   curr    peck
+87  1426210  It Takes Two   ₩ 44,000                      9,725  18,612
+{'message': 'new top100', 'steam_no': "['1426210']", 'name': "['It Takes Two']", 'real': "['₩ 44,000']", 'curr': "['9,725']", 'peck': "['18,612']"}
+<Response [200]>
+     appno      name real_price sale discount_price   curr    peck
+99  962130  Grounded   ₩ 39,900                      8,106  15,051
+{'message': 'new top100', 'steam_no': "['962130']", 'name': "['Grounded']", 'real': "['₩ 39,900']", 'curr': "['8,106']", 'peck': "['15,051']"}
+<Response [200]>
+119
+Traceback (most recent call last):
+  File "/home/junyouzin/kakao/top100.py", line 57, in <module>
+    broswer = webdriver.Chrome('chromedriver', options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 81, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 103, in __init__
+    self.service.start()
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/common/service.py", line 112, in start
+    raise WebDriverException(f"Can not connect to the Service {self.path}")
+selenium.common.exceptions.WebDriverException: Message: Can not connect to the Service chromedriver
+
+119
+Traceback (most recent call last):
+  File "/home/junyouzin/kakao/top100.py", line 57, in <module>
+    broswer = webdriver.Chrome('chromedriver', options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 81, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 103, in __init__
+    self.service.start()
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/common/service.py", line 112, in start
+    raise WebDriverException(f"Can not connect to the Service {self.path}")
+selenium.common.exceptions.WebDriverException: Message: Can not connect to the Service chromedriver
+
+127
+스크롤 완
+[]
+<Response [200]>
+127
+스크롤 완
+['1551360', '1515950', '1145360']
+      appno             name real_price  sale discount_price    curr    peck
+91  1551360  Forza Horizon 5   ₩ 38,930  -35%       ₩ 59,900  10,272  13,432
+{'message': 'new top100', 'steam_no': "['1551360']", 'name': "['Forza Horizon 5']", 'real': "['₩ 38,930']", 'curr': "['10,272']", 'peck': "['13,432']"}
+<Response [200]>
+      appno                   name    real_price  ... discount_price    curr    peck
+88  1515950  Capcom Arcade Stadium  Free To Play  ...                 10,534  33,340
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['1515950']", 'name': "['Capcom Arcade Stadium']", 'real': "['Free To Play']", 'curr': "['10,534']", 'peck': "['33,340']"}
+<Response [200]>
+      appno   name real_price  sale discount_price   curr   peck
+93  1145360  Hades   ₩ 13,000  -50%       ₩ 26,000  9,933  9,933
+{'message': 'new top100', 'steam_no': "['1145360']", 'name': "['Hades']", 'real': "['₩ 13,000']", 'curr': "['9,933']", 'peck': "['9,933']"}
+<Response [200]>
+130
+스크롤 완
+['518790', '238960']
+     appno                          name  ...    curr    peck
+94  518790  theHunter: Call of the Wild™  ...  11,896  11,896
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['518790']", 'name': "['theHunter: Call of the Wild™']", 'real': "['₩ 4,100']", 'curr': "['11,896']", 'peck': "['11,896']"}
+<Response [200]>
+     appno                                         name  ...    curr     peck
+11  238960  Path of Exile(not available in your region)  ...  78,964  127,944
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['238960']", 'name': "['Path of Exile(not available in your region)']", 'real': "['']", 'curr': "['78,964']", 'peck': "['127,944']"}
+<Response [200]>

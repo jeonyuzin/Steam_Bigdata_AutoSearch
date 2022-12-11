@@ -1,0 +1,27 @@
+<a href="https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_230_150_1" data-ds-appid="1446780" data-ds-itemkey="App_1446780" data-ds-tagids="[19,122,3843,9564,4231,3859,1685]" data-ds-crtrids="[33273264,34827959]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1446780,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag  app_impression_tracked" data-search-page="1" data-gpnav="item" data-ds-steam-deck-compat-handled="true">
+            <div class="col search_capsule"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_sm_120.jpg?t=1668602706" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_sm_120.jpg?t=1668602706 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_231x87.jpg?t=1668602706 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">MONSTER HUNTER RISE</span>
+                    <div>
+                                                <span class="platform_img win"></span>                    </div>
+                </div>
+                <div class="col search_released responsive_secondrow">12 Jan, 2022</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Very Positive<br>86% of the 34,565 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="2420000">
+                    <div class="col search_discount responsive_secondrow">
+                        <span>-50%</span>
+                    </div>
+                    <div class="col search_price discounted responsive_secondrow">
+                        <span style="color: #888888;"><strike>₩ 48,400</strike></span><br>₩ 24,200                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>

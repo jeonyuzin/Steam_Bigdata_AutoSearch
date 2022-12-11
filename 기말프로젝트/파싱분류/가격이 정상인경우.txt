@@ -1,0 +1,27 @@
+<a href="https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_7_7_230_150_1" data-ds-appid="1811260" data-ds-itemkey="App_1811260" data-ds-tagids="[701,1679,9204,7226,12472,1775,5055]" data-ds-crtrids="[36135791,38196776]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1811260,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag  app_impression_tracked" data-search-page="1" data-gpnav="item" data-ds-steam-deck-compat-handled="true">
+            <div class="col search_capsule"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_sm_120_alt_assets_0.jpg?t=1668091575" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_sm_120_alt_assets_0.jpg?t=1668091575 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87_alt_assets_0.jpg?t=1668091575 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">EA SPORTS™ FIFA 23</span>
+                    <div>
+                                                <span class="platform_img win"></span>                    </div>
+                </div>
+                <div class="col search_released responsive_secondrow">29 Sep, 2022</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed<br>44% of the 21,595 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="7700000">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        ₩ 77,000                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
