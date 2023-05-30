@@ -155,7 +155,7 @@ async def schedule_daily_message():
     
 @bot.command()
 async def steam(message):
-    if (message.channel.id==935464117916016641 or message.channel.id==1060607015791120384):
+    if (message.channel.id==특정채널이면 or message.channel.id==특정채널이면):
       try:
         await message.channel.send('데이터 확인중 기다리셈')
         #초기화 및 데이터 로딩
