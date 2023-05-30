@@ -5,9 +5,9 @@ url = "https://kauth.kakao.com/oauth/token"
 
 data = {
 "grant_type" : "authorization_code",
-"client_id" : "4bb5c92b4402ad9275000c5e52adf233",
+"client_id" : "아이디",
 "redirect_uri" : "https://example.com/oauth",
-"code" : "9UC__yU5gc8kb5k_8KtPvpI7P5EL3slFGhe1rfcnVhG3tBymlGD7t_eX2krlV5qpITpS0go9dVwAAAGE2RNeeg"
+"code" : "코드"
 }
 
 response = requests.post(url, data=data)
