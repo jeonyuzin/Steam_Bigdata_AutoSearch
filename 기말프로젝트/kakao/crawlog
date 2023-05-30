@@ -96,3 +96,305 @@ selenium.common.exceptions.WebDriverException: Message: Can not connect to the S
 [1 rows x 7 columns]
 {'message': 'new top100', 'steam_no': "['238960']", 'name': "['Path of Exile(not available in your region)']", 'real': "['']", 'curr': "['78,964']", 'peck': "['127,944']"}
 <Response [200]>
+132
+스크롤 완
+[]
+<Response [200]>
+132
+스크롤 완
+['1948800']
+      appno                                name  ...   curr   peck
+96  1948800  Yi Xian: The Cultivation Card Game  ...  8,934  9,586
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['1948800']", 'name': "['Yi Xian: The Cultivation Card Game']", 'real': "['₩ 8,500']", 'curr': "['8,934']", 'peck': "['9,586']"}
+<Response [200]>
+133
+스크롤 완
+['1961460']
+      appno               name    real_price  ... discount_price    curr    peck
+85  1961460  PROJECT: PLAYTIME  Free To Play  ...                 10,324  21,105
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['1961460']", 'name': "['PROJECT: PLAYTIME']", 'real': "['Free To Play']", 'curr': "['10,324']", 'peck': "['21,105']"}
+<Response [200]>
+134
+스크롤 완
+[]
+<Response [200]>
+134
+스크롤 완
+['1665460']
+      appno             name    real_price sale discount_price   curr   peck
+88  1665460  eFootball™ 2023  Free To Play                      9,451  9,451
+{'message': 'new top100', 'steam_no': "['1665460']", 'name': "['eFootball™ 2023']", 'real': "['Free To Play']", 'curr': "['9,451']", 'peck': "['9,451']"}
+<Response [200]>
+135
+스크롤 완
+['2078890']
+      appno                      name real_price  ... discount_price    curr    peck
+73  2078890  Dark and Darker Playtest             ...                 12,144  12,144
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['2078890']", 'name': "['Dark and Darker Playtest']", 'real': "['']", 'curr': "['12,144']", 'peck': "['12,144']"}
+<Response [200]>
+136
+스크롤 완
+['2208920']
+      appno                       name  ...    curr    peck
+89  2208920  Assassin's Creed Valhalla  ...  12,181  12,181
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['2208920']", 'name': '["Assassin\'s Creed Valhalla"]', 'real': "['₩ 21,450']", 'curr': "['12,181']", 'peck': "['12,181']"}
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+[]
+<Response [200]>
+137
+스크롤 완
+['1447430']
+      appno    name    real_price sale discount_price    curr    peck
+99  1447430  小黑盒加速器  Free To Play                      10,874  11,080
+{'message': 'new top100', 'steam_no': "['1447430']", 'name': "['小黑盒加速器']", 'real': "['Free To Play']", 'curr': "['10,874']", 'peck': "['11,080']"}
+<Response [200]>
+138
+스크롤 완
+['453480']
+     appno             name    real_price sale discount_price    curr    peck
+52  453480  Shadowverse CCG  Free To Play                      20,828  20,828
+{'message': 'new top100', 'steam_no': "['453480']", 'name': "['Shadowverse CCG']", 'real': "['Free To Play']", 'curr': "['20,828']", 'peck': "['20,828']"}
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+139
+스크롤 완
+[]
+<Response [200]>
+193
+스크롤 완
+[]
+<Response [200]>
+193
+스크롤 완
+[]
+<Response [200]>
+193
+스크롤 완
+[]
+<Response [200]>
+193
+스크롤 완
+[]
+<Response [200]>
+193
+스크롤 완
+[]
+<Response [200]>
+193
+스크롤 완
+['1816570']
+      appno  name real_price sale discount_price   curr   peck
+91  1816570  江湖十一   ₩ 19,500                      9,144  9,144
+{'message': 'new top100', 'steam_no': "['1816570']", 'name': "['江湖十一']", 'real': "['₩ 19,500']", 'curr': "['9,144']", 'peck': "['9,144']"}
+<Response [200]>
+194
+스크롤 완
+['1974050']
+      appno                  name    real_price  ... discount_price    curr    peck
+56  1974050  Torchlight: Infinite  Free To Play  ...                 15,480  15,480
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['1974050']", 'name': "['Torchlight: Infinite']", 'real': "['Free To Play']", 'curr': "['15,480']", 'peck': "['15,480']"}
+<Response [200]>
+195
+스크롤 완
+['1147560']
+      appno                   name real_price  ... discount_price   curr   peck
+96  1147560  Skul: The Hero Slayer   ₩ 10,250  ...       ₩ 20,500  8,737  8,737
+
+[1 rows x 7 columns]
+{'message': 'new top100', 'steam_no': "['1147560']", 'name': "['Skul: The Hero Slayer']", 'real': "['₩ 10,250']", 'curr': "['8,737']", 'peck': "['8,737']"}
+<Response [200]>
+196
+스크롤 완
+['1189490']
+      appno name real_price  sale discount_price    curr    peck
+70  1189490  觅长生   ₩ 11,250  -10%       ₩ 12,500  16,309  16,309
+{'message': 'new top100', 'steam_no': "['1189490']", 'name': "['觅长生']", 'real': "['₩ 11,250']", 'curr': "['16,309']", 'peck': "['16,309']"}
+<Response [200]>
+197
+스크롤 완
+[]
+<Response [200]>
+197
+스크롤 완
+['397540', '386180', '444090']
+     appno           name real_price  sale discount_price   curr    peck
+98  397540  Borderlands 3    ₩ 9,730  -85%       ₩ 64,900  8,557  12,692
+{'message': 'new top100', 'steam_no': "['397540']", 'name': "['Borderlands 3']", 'real': "['₩ 9,730']", 'curr': "['8,557']", 'peck': "['12,692']"}
+<Response [200]>
+     appno      name    real_price sale discount_price   curr    peck
+95  386180  Crossout  Free To Play                      8,781  10,606
+{'message': 'new top100', 'steam_no': "['386180']", 'name': "['Crossout']", 'real': "['Free To Play']", 'curr': "['8,781']", 'peck': "['10,606']"}
+<Response [200]>
+     appno       name    real_price sale discount_price   curr    peck
+94  444090  Paladins®  Free To Play                      8,785  10,944
+{'message': 'new top100', 'steam_no': "['444090']", 'name': "['Paladins®']", 'real': "['Free To Play']", 'curr': "['8,785']", 'peck': "['10,944']"}
+<Response [200]>
+200
+스크롤 완
+[]
+<Response [200]>
+200
+스크롤 완
+[]
+<Response [200]>
+200
+스크롤 완
+['939400']
+     appno        name real_price  sale discount_price   curr   peck
+92  939400  LoveChoice    ₩ 1,840  -20%        ₩ 2,300  9,328  9,328
+{'message': 'new top100', 'steam_no': "['939400']", 'name': "['LoveChoice']", 'real': "['₩ 1,840']", 'curr': "['9,328']", 'peck': "['9,328']"}
+<Response [200]>
+201
+스크롤 완
+['774171', '1237970']
+     appno       name real_price  sale discount_price   curr    peck
+96  774171  Muse Dash      ₩ 960  -70%        ₩ 3,200  9,648  11,478
+{'message': 'new top100', 'steam_no': "['774171']", 'name': "['Muse Dash']", 'real': "['₩ 960']", 'curr': "['9,648']", 'peck': "['11,478']"}
+<Response [200]>
+      appno          name real_price  sale discount_price    curr    peck
+80  1237970  Titanfall® 2    ₩ 3,300  -90%       ₩ 33,000  11,263  11,263
+{'message': 'new top100', 'steam_no': "['1237970']", 'name': "['Titanfall® 2']", 'real': "['₩ 3,300']", 'curr': "['11,263']", 'peck': "['11,263']"}
+<Response [200]>
+203
+스크롤 완
+[]
+<Response [200]>
+203
+스크롤 완
+[]
+<Response [200]>
+203
+스크롤 완
+[]
+<Response [200]>
+203
+스크롤 완
+[]
+<Response [200]>
+203
+스크롤 완
+[]
+<Response [200]>
+203
+스크롤 완
+['1675900']
+      appno       name    real_price sale discount_price   curr    peck
+99  1675900  Warlander  Free To Play                      8,653  12,026
+{'message': 'new top100', 'steam_no': "['1675900']", 'name': "['Warlander']", 'real': "['Free To Play']", 'curr': "['8,653']", 'peck': "['12,026']"}
+<Response [200]>
+204
+스크롤 완
+[]
+<Response [200]>
+204
+스크롤 완
+['1693980']
+      appno        name real_price sale discount_price    curr    peck
+56  1693980  Dead Space   ₩ 66,000                      21,211  30,925
+{'message': 'new top100', 'steam_no': "['1693980']", 'name': "['Dead Space']", 'real': "['₩ 66,000']", 'curr': "['21,211']", 'peck': "['30,925']"}
+<Response [200]>
+205
+스크롤 완
+[]
+<Response [200]>
+205
+스크롤 완
+[]
+<Response [200]>
+205
+스크롤 완
+[]
+<Response [200]>
+205
+스크롤 완
+[]
+<Response [200]>
+205
+스크롤 완
+['2095300']
+      appno         name real_price sale discount_price    curr    peck
+75  2095300  Breakout 13   ₩ 11,000                      11,850  11,850
+{'message': 'new top100', 'steam_no': "['2095300']", 'name': "['Breakout 13']", 'real': "['₩ 11,000']", 'curr': "['11,850']", 'peck': "['11,850']"}
+<Response [200]>
+206
+스크롤 완
+[]
+<Response [200]>
+206
+스크롤 완
+['1782210']
+      appno       name    real_price sale discount_price    curr    peck
+32  1782210  Crab Game  Free To Play                      34,237  34,434
+{'message': 'new top100', 'steam_no': "['1782210']", 'name': "['Crab Game']", 'real': "['Free To Play']", 'curr': "['34,237']", 'peck': "['34,434']"}
+<Response [200]>
