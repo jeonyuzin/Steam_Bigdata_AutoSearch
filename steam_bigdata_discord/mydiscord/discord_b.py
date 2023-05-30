@@ -124,7 +124,7 @@ async def schedule_daily_message():
     if not((now_h==12 or now_h==0) and now_m==0):
       await asyncio.sleep(60)
       continue
-    channel=bot.get_channel(935464117916016641) 
+    channel=bot.get_channel(채널주소) 
     await channel.send("일일 갓겜 자동 검색 ")
     try:
       await channel.send('데이터 확인중 기다리셈')
