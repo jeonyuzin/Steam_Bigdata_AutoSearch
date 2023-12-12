@@ -1,6 +1,8 @@
 # 스팀 빅데이터 분석 및 자동화 알림 시스템
 
 # AS-IS
+
+
 1. 가격을 제외한 정렬 기준이 한 개만 적용된다.
 
 2. 가격도 6만원 제한이 있다. (6만원 이외에는 all)
@@ -11,7 +13,10 @@
 
 이러한 이유로 유연한 설정이 어려우며 가장 큰 불편함인 자동화 검색이 불가능하다.
 
+
 # TO-BE
+
+
 1. 게임 목록을 크롤링하여 데이터 수집
 
 2. 데이터를 가공, 분석하여 원하는 자료 만들고 시각화
@@ -28,13 +33,16 @@
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get2.png">
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get3.png">
 
+
 # 데이터 가공
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre1.png">
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre2.png">
 
+
 # 데이터 분석 및 시각화
 스팀 기준 오래된 게임이면 할인률이 높은가? X 무조건은 아니다.
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_vis.png">
+
 
 # 프로그램 흐름도
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_flow.png">
