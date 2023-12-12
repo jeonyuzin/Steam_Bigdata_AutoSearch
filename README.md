@@ -48,8 +48,10 @@
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_flow.png">
 
 
-# 알리미 봇 (카카오톡 API 테스팅 및 Discord 배포)
+# 알리미 봇 (카카오톡 API 테스팅)
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/kakao.png">
+
+# Discord 서비스 (클라이언트 요구 기준에 충족하는 신작이 나오면 자동으로 알림)
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/discord.png">
 
 
