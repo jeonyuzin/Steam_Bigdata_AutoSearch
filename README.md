@@ -32,6 +32,7 @@
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre2.png">
 
 # 데이터 분석 및 시각화
+스팀 기준 오래된 게임이면 할인률이 높은가? X 무조건은 아니다.
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_vis.png">
 
 # 프로그램 흐름도
