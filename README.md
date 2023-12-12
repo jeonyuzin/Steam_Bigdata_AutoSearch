@@ -26,7 +26,7 @@
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get0.png">
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get1.png">
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get2.png">
-
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get3.png">
 # 데이터 가공
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre1.png">
 <img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre2.png">
