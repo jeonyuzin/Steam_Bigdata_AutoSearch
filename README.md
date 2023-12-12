@@ -22,16 +22,25 @@
 
 클라이언트의 요구에 맞게 설정이 가능하며 자동화 검색을 지원한다.
 
-# 데이터 수집 (크롤링)
-
+# 데이터 수집 
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get0.png">
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get1.png">
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_get2.png">
 
 # 데이터 가공
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre1.png">
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_pre2.png">
 
+# 데이터 분석 및 시각화
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_vis.png">
 
-# 데이터 분석
+# 프로그램 흐름도
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/data_flow.png">
 
 
 # 알리미 봇 (카카오톡 API 테스팅 및 Discord 배포)
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/kakao.png">
+<img src="https://github.com/jeonyuzin/Steam_Bigdata_AutoSearch/blob/main/readimg/discord.png">
 
 
 
